@@ -24,6 +24,20 @@
   <packaging>pom</packaging>
   <name>AICER OSS Parent POM</name>
   <url>https://github.com/bigdata1024/oss-pom-management/wiki</url>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>iekpo</id>
+      <name>Israel Ekpo</name>
+      <email>israel@aicer.org</email>
+    </developer>
+  </developers>
   <description>Parent POM for OSS Projects by the American Institute for Computing Education and Research Inc.</description>
   <scm>
     <connection>scm:git:git@github.com:bigdata1024/oss-pom-management.git</connection>
