@@ -18,7 +18,7 @@
     <version>7</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>org.aicer.oss</groupId>
+  <groupId>org.aicer</groupId>
   <artifactId>aicer-oss-parent</artifactId>
   <version>RELEASE</version>
   <packaging>pom</packaging>
