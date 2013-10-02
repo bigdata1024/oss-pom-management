@@ -20,7 +20,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.aicer</groupId>
   <artifactId>aicer-oss-parent</artifactId>
-  <version>32</version>
+  <version>32-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>AICER OSS Parent POM</name>
   <url>https://github.com/bigdata1024/oss-pom-management/wiki</url>
